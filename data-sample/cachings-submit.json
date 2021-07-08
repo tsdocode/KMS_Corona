@@ -1,0 +1,70 @@
+{
+    "roundId": "test",
+    "catchings": [
+        {
+            "positions": [
+                {
+                    "x": 480.5,
+                    "y": 220.0
+                }
+            ],
+            "waveId": "RYjuxAITHUCb"
+        },
+        {
+            "positions": [],
+            "waveId": "JReVRcVHWMdK"
+        },
+        {
+            "positions": [
+                {
+                    "x": 374.5,
+                    "y": 52.0
+                }
+            ],
+            "waveId": "prcvPgrFagAn"
+        },
+        {
+            "positions": [],
+            "waveId": "WTjDNgfdTDRj"
+        },
+        {
+            "positions": [
+                {
+                    "x": 187.5,
+                    "y": 156.0
+                }
+            ],
+            "waveId": "jBFkHrXoXqjy"
+        },
+        {
+            "positions": [],
+            "waveId": "xGHBFBjXDbsw"
+        },
+        {
+            "positions": [],
+            "waveId": "UrCsflTzHnEm"
+        },
+        {
+            "positions": [],
+            "waveId": "uDUBGIlumAjD"
+        },
+        {
+            "positions": [
+                {
+                    "x": 237.5,
+                    "y": 637.0
+                }
+            ],
+            "waveId": "TmGdpIDUVHzI"
+        },
+        {
+            "positions": [
+                {
+                    "x": 475.5,
+                    "y": 686.0
+                }
+            ],
+            "waveId": "CFzPKBrZwXnM"
+        }
+    ]
+}

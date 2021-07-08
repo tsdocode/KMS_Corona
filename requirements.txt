@@ -1,0 +1,5 @@
+asyncio
+numpy
+opencv-python==4.4.0.42
+websockets
+requests
