@@ -10,6 +10,6 @@
 ## Install the app
 
 - pip install -r requirements.txt
-- python main.py
+- python main_1.py
 
-URL: ws://localhost:8765/ws
+URL: ws://localhost:8769/ws
